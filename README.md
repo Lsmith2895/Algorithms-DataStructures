@@ -1,2 +1,2 @@
 # Algorithms-DataStructures
-> This repo os a conglomeration of my toy problems, leet code, and other challenges. 
+> This repo is a conglomeration of my solved toy problems, leet code, and other challenges. 
